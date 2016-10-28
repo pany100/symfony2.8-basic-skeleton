@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: sony_evento
+    database_user: lpaniagua
+    database_password: luis.mag.44
+    mailer_transport: gmail
+    mailer_host: null
+    mailer_user: mailsmagdev@gmail.com
+    mailer_password: mails.mag.dev
+    secret: 349d8bf9a50ea4826176b43df23d746edcade108
